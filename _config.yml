@@ -63,7 +63,7 @@ metadata: metadataruthkramer
 # noindex: true 
 
 ##########
-# BUILD SETTINGS 
+# BUILD SETTINGS
 #
 # Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build

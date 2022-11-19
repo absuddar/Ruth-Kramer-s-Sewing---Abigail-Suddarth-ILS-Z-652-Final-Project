@@ -1,7 +1,7 @@
 ---
 title: Quilts
 layout: exhibit
-permalink: /about.html
+  permalink: /quilts.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

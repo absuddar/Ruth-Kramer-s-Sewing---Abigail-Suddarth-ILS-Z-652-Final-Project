@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-
+This collection was made in loving memory of Ruth Kramer (1939-2020).  She 
 
 ## About the Platform
 

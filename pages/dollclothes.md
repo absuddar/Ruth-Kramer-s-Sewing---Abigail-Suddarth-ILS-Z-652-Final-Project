@@ -1,7 +1,7 @@
 ---
 title: Doll Clothes
 layout: exhibit
-permalink: /about.html
+permalink: /dollclothes.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

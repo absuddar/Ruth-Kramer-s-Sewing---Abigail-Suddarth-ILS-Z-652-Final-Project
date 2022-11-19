@@ -1,9 +1,17 @@
-display_name,stub,dropdown_parent
-Home,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+"display_name","stub","dropdown_parent"
+"Home","/",
+"Browse","/browse.html",
+"Subjects","/subjects.html",
+"Timeline","/timeline.html",
+"Data","/data.html",
+"Exhibit",,
+"Wedding","/wedding.html","Exhibit"
+"Children's Dresses","children.html","Exhibit"
+"Doll Clothes","doll.html","Exhibit"
+"Quilts","quilt.html","Exhibit"
+"Misc","misc.html","Exhibit"
+"About",,
+"About the collection","/about.html","About"
+"People","/people.html","About"
+"Technical documentations","/technical.html","About"
+"Copyright","/copyright.html",

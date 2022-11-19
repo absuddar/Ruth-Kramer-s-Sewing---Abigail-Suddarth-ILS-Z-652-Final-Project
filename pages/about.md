@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-This collection was made in loving memory of Ruth Kramer (1939-2020).  She 
+This collection was made in loving memory of Ruth Kramer (1939-2020).  She began sewing as a high school student, first sewing herself an apron.  Throughout her life, she sewed countless wedding dresses, day dresses, quilts, bags and other items.  This collection features primarily items made for or relating to her own children and grandchildren.  This library consists of scanned photographs from her own wedding and two of her children's weddings in the 1980's and photographs and videos of dresses, quilts, and other sewing projects Ruth Kramer made specifically for or eventually gave to her family.
 
 ## About the Platform
 

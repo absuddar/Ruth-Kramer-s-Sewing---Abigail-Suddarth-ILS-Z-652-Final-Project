@@ -10,9 +10,9 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: houndstooth_pinafores_and_white_puff_shoulder_blouses_1
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 10em # Default is 8em
+home-title-y-padding: 10em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # Default is center
+home-banner-image-position: top
 
 ##########
 # ITEM PAGE
@@ -58,9 +58,9 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,type,format,date,description,subject,for,event,fabric,skirtlength,sleevelength,color,pattern,complete,dimensions"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format"
+metadata-facets-fields: "title,type,format,date,description,subject,for,event,fabric,skirtlength,sleevelength,color,pattern,complete,dimensions"
 
 ##########
 # ADVANCED OPTIONS

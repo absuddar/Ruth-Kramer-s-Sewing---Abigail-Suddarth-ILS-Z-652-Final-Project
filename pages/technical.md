@@ -22,51 +22,51 @@ INSERT INSTRUCTIONS
 Below is an explanation of what Dublin Core and text item type elements are used and what standards have been applied to their input.  
 ### Dublin Core elements  
 #### Title - required, 1 value allowed
-INSERT
 
-Examples: INSERT
+Examples: Ruth Kramer Wedding Suit, Scott Suddarth Quilt Top
 
 
 #### Creator - required, multiple values allowed
-INSERT
-
-#### Date - required, 1 value allowed
-Date element contains the value of the date of publication which is important to include in any sort of bibliographic item. The dates are formatted according to the [W3C date format](https://www.w3.org/TR/NOTE-datetime) which allows for dates to be inputted in this way:  
-- YYYY-MM-DD
-- YYYY-MM
-- YYYY
 
 
-#### Publisher - required, 1 value allowed
+#### Date - optional, 1 value allowed
+This element refers to the date the sewing project was completed, not necessarily the date that the photograph was taken.  For that reason, clothing made for a specific event such as a wedding may have a different year than the event itself.  Likewise, for many of Ruth Kramer's sewing projects, particularly ones she made for herself or ones that she originally intended to sell, the date she made the project may be unknown.
 
-#### Format - required, 2 values required
-The format element has two required values: the number of pages (not including the front and back covers) and the digital format of the item. The number of pages is an Arabic numeral followed by "pp" and the digital format corresponds to the [Internet MIMEtype](https://www.iana.org/assignments/media-types/media-types.xhtml).
 
-Examples: 32pp, pdf  
+#### Description - required, multiple values allowed
 
-#### Language - required, multiple values allowed
-While all of the items currently in the digital library are in Spanish, other issues of the series sometimes contain significant portions in other languages, such as [Francfort: juguete cómico tetralingue by Vital Aza](https://t.co/ah97YtWLMn?amp=1), which contains dialogue in German, French, Spanish, and Catalan. If that item were to be formally incorporated into the collection (instead of being linked to on the [Other Issues in La Novela Teatral]), it would be appropriate to list other languages in the language field. The values for the language element use the 3-letter language codes listed in the [ISO 639-2](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes).  
 
-Examples: spa, eng  
+#### Subject - required, multiple values allowed
 
-#### Description - optional
 
-#### Rights - required, 1 value allowed
+#### Type - required, 1 value allowed
 
-#### Identifier - required, 1 value allowed
 
-#### Translator - required if present, multiple values allowed
+#### Format - required, 1 value allowed
 
-#### Series - required, 1 value allowed
 
-#### Year (Magazine/Journal) - required, 1 value allowed
+#### For - optional, 1 value allowed
 
-#### Number (Magazine/Journal) - required, 1 value allowed
 
-#### Place of Publication - required, 1 value allowed
+#### Event - optional, 1 value allowed
 
-#### Price - required, 1 value allowed
 
-#### Physical Dimensions - required, 1 value allowed
+#### Fabric - optional, multiple values allowed
 
-#### Advertisement - required, multiple values allowed
+
+#### Skirt Length - optional, 1 value allowed
+
+
+#### Sleeve Length - optional, 1 value allowed
+
+
+#### Color - optional, multiple value allowed
+
+
+#### Pattern - optional, 1 value allowed
+
+
+#### Complete - required, 1 value allowed
+
+
+#### Dimensions - optional, 1 value allowed

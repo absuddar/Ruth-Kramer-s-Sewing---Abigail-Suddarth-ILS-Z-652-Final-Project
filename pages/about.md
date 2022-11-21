@@ -13,7 +13,7 @@ credits: true
 ## About the Collection
 This collection was made in loving memory of Ruth Kramer (1939-2020).  Throughout her life, she sewed countless wedding dresses, day dresses, quilts, bags, and other items.  This collection features primarily items made for or relating to her own children and grandchildren.  This library consists of scanned photographs from her own wedding in 1963, two of her children's weddings in the 1980's, and photographs and videos of dresses, quilts, and other sewing projects Ruth Kramer made specifically for or eventually gave to her family.
 
-{% include feature/image.html objectid="houndstooth_pinafores_and_white_puff_shoulder_blouses_1.jpg" width="100" caption="Matching dresses worn by four of Ruth Kramer's grandchildren" %}
+{% include feature/image.html objectid="houndstooth_pinafores_and_white_puff_shoulder_blouses_1" width="100" caption="Matching dresses worn by four of Ruth Kramer's grandchildren" %}
 
 ## About the Platform
 

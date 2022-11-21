@@ -17,7 +17,7 @@ For Ruth Kramer's oldest daughter's wedding in 1985, she not only sewed the wedd
 
 {% include feature/image.html objectid="1_12_1985_marti_suddarth_wedding_dress_1" width="50" caption="Marti Suddarth with groom Daniel Suddarth" %}
 
-{% include feature/image.html objectid="1_12_1985_geri_armstrong_maternity_bridesmaid_dress" width="50" caption="Geri Armstrong in a red, maternity bridesmaid dress." %}
+{% include feature/image.html objectid="1_12_1985_suddarth_wedding_maternity_bridesmaid_dress" width="50" caption="Geri Armstrong in a red, maternity bridesmaid dress." %}
 
 For Ruth Kramer's second daughter's wedding in 1988, she sewed the wedding dress, the bridesmaid dresses, and an usher dress for her youngest daughter, Alice Doane.  Marti Suddarth was six months pregnant with her second child at the wedding and her dress was designed with a higher waistline to accommodate her pregnancy.
 
